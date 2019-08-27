@@ -1,5 +1,7 @@
-# tennis_scoring_system       https://travis-ci.com/jrcampos55/tennis_scoring_system.svg?branch=master
+# tennis_scoring_system       
 Tennis scoring system
+
+Build status: [![build_status](https://travis-ci.com/jrcampos55/tennis_scoring_system.svg?branch=master)]
 
 This sample requires Java 8, Maven and Git.
 
